@@ -25,7 +25,7 @@ Given halaman login saucedemo
     Then Click Add to Chart Bike Light
 
   @Regression @Positive
-  Scenario: Delate Backpack from Chart
+  Scenario: Delete Bike Light from Chart
     Given halaman login saucedemo
     When Input Username
     And  Input Password
