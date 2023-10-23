@@ -1,4 +1,4 @@
-Feature: Login aplikasi soucedemo
+Feature: Login, Add to chart, And Remove chart aplikasi soucedemo
 @Regression @Positive
 Scenario: Success Login
 Given halaman login saucedemo
